@@ -57,18 +57,18 @@
  *** 
 &nbsp;|발표자|발표 범위
 ---|---|---
-1주차|[배준오](https://github.com/Junobee25)|1.1 ~ 1.2
-2주차|[이지수]|2.1 ~ 2.2
-3주차|[최나영](https://github.com/rxmxntic)|3.1 ~ 3.3
-4주차|[김현수](https://github.com/losie2)|4.1 ~ 4.2
-5주차|[양혜정](https://github.com/yanghj0)|5.1 ~ 5.2
-6주차|[배준오](https://github.com/Junobee25)|6.1 ~ 6.4
-7주차|[이지수]|6.5 ~ 7.2
-8주차|[최나영](https://github.com/rxmxntic)|8.1 ~ 8.2
-9주차|[김현수](https://github.com/losie2)|8.3 ~ 8.4
-10주차|[양혜정](https://github.com/yanghj0)|9.1 ~ 9.2
-11주차|[배준오](https://github.com/Junobee25)|10.1 ~ 10.2
-12주차|[이지수]|10.3 ~ 11.2
+1주차|[XXX](https://github.com/Junobee25)|1.1 ~ 1.2
+2주차|[XXX]|2.1 ~ 2.2
+3주차|[XXX](https://github.com/rxmxntic)|3.1 ~ 3.3
+4주차|[XXX](https://github.com/losie2)|4.1 ~ 4.2
+5주차|[XXX](https://github.com/yanghj0)|5.1 ~ 5.2
+6주차|[XXX](https://github.com/Junobee25)|6.1 ~ 6.4
+7주차|[XXX]|6.5 ~ 7.2
+8주차|[XXX](https://github.com/rxmxntic)|8.1 ~ 8.2
+9주차|[XXX](https://github.com/losie2)|8.3 ~ 8.4
+10주차|[XXX](https://github.com/yanghj0)|9.1 ~ 9.2
+11주차|[XXX](https://github.com/Junobee25)|10.1 ~ 10.2
+12주차|[XXX]|10.3 ~ 11.2
 
 ***
 </br>
